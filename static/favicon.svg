@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   id="favicon"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   viewBox="0 0 128 128"
+   sodipodi:docname="favicon.svg">
+  <defs
+     id="defs3459" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.331029"
+     inkscape:cx="89.890734"
+     inkscape:cy="67.89482"
+     inkscape:current-layer="icono"
+     showgrid="true"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(0,64)">
+    <g
+       transform="matrix(0.21052277,0,0,0.21109015,0.08601119,-3.982e-7)"
+       id="ico">
+      <polygon
+         style="fill:#e8e8e8"
+         points="219.821,0 32.842,0 32.842,303.188 270.346,303.188 270.346,50.525 "
+         id="bg"
+         transform="matrix(2,0,0,2,0.40856001,-303.188)" />
+      <polygon
+         style="fill:#008000"
+         points="32.842,0 219.821,0 227.64,25.263 32.842,25.263 "
+         id="bgg"
+         transform="matrix(2,0,0,2,0.40856001,-303.188)" />
+      <polygon
+         style="fill:#d1d3d3"
+         points="219.821,0 219.821,50.525 270.346,50.525 "
+         id="esq"
+         transform="matrix(2,0,0,2,0.40856001,-303.188)" />
+      <g
+         id="py"
+         transform="matrix(2,0,0,2,0.40856001,-303.188)">
+        <g
+           id="pya">
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#004a94"
+             d="m 150.848,67.41 c -15.19,0 -25.222,6.307 -25.222,12.325 l 0,19.196 25.222,0 0,2.866 -47.284,0 c -6.02,0 -12.324,10.031 -12.324,25.222 0,15.191 6.305,25.222 12.324,25.222 l 19.193,0 0,-11.996 c 0,-8.086 6.578,-14.665 14.665,-14.665 l 26.848,-0.002 c 6.505,0 11.798,-5.293 11.798,-11.799 l 0,-20.738 0.002,0 0,-13.306 C 176.069,73.717 166.038,67.41 150.848,67.41 Z"
+             id="path11" />
+          <circle
+             style="fill:#ffffff"
+             cx="137.179"
+             cy="84.408997"
+             r="3.6300001"
+             id="pyb" />
+        </g>
+        <g
+           id="pyc">
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#fb9200"
+             d="m 198.132,101.798 -19.198,0 0,11.981 c 0,8.086 -6.578,14.664 -14.664,14.664 l -26.849,0.003 c -6.505,0 -11.797,5.293 -11.797,11.799 l 0,13.234 0.002,-0.003 0,20.827 c 0,6.019 10.031,12.325 25.222,12.325 15.191,0 25.222,-6.307 25.222,-12.325 l 0,-19.196 -25.222,0 0,-2.866 47.284,0 c 6.02,0 12.324,-10.031 12.324,-25.222 0,-15.191 -6.305,-25.221 -12.324,-25.221 z"
+             id="path17" />
+          <circle
+             style="fill:#ffffff"
+             cx="164.517"
+             cy="169.63"
+             r="3.6300001"
+             id="pyd" />
+        </g>
+      </g>
+      <g
+         id="url"
+         style="fill:#808080"
+         transform="matrix(2,0,0,2,0.40856001,-303.188)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:34.73987579px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="38.87569"
+           y="263.16428"
+           id="text3519"
+           sodipodi:linespacing="125%"
+           transform="scale(1.0013466,0.99865521)"><tspan
+             sodipodi:role="line"
+             id="tspan3521"
+             x="38.87569"
+             y="263.16428">PythonMania</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

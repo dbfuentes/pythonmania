@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /humans.txt
+Disallow: /harming/humans
+Disallow: /ignoring/humans/orders
+Disallow: /harm/to/self
+User-agent: Deep Thought
+Allow: /42
+Sitemap: https://www.pythonmania.net/sitemap.xml

@@ -1,0 +1,5 @@
+- id: translations
+  translation: "Translations or alternative version of this post"
+
+- id: LatestPosts
+  translation: "Latest Posts"

@@ -1,0 +1,64 @@
+baseurl = "https://www.pythonmania.net/"
+title = "Python Mania"
+defaultContentLanguage = "es"
+defaultContentLanguageInSubdir = true
+uglyurls = false
+canonifyurls = true
+paginate = 10
+paginatePath = "page"
+disable404 = true
+enableRobotsTXT = false
+disableRSS = false
+
+archetypeDir = "archetypes"
+contentDir = "content"
+layoutDir = "layouts"
+staticDir = "static"
+publishDir = "public"
+themesDir = "themes"
+
+theme = "beg-mod"
+
+pygmentsCodeFencesGuessSyntax = false
+pygmentsstyle = "monokai"
+
+[permalinks]
+    blog = "/:year/:month/:day/:slug"
+
+[Languages]
+[Languages.es]
+    title = "Python Mania"
+    weight = 1
+[Languages.es.params]
+    locale = "es"
+    disqusShortname = "pythonmania-net"
+[Languages.es.taxonomies]
+    tag = "tags"
+    category  = "categories"
+[[Languages.es.menu.main]]
+    name = "Acerca de"
+    url = "/es/acerca-de/"
+[[Languages.es.menu.main]]
+    name = "Tutoriales y ejemplos"
+    url = "/es/tutoriales/"
+[[Languages.es.menu.main]]
+    name = "English Version"
+    url = "/en/"
+    weight = 10
+[Languages.en]
+    title = "Python Mania"
+    weight = 2
+[Languages.en.params]
+    locale = "en"
+    disqusShortname = "pythonmania-net"
+[Languages.en.taxonomies]
+    # singular key: “plural value”
+    tag = "tags"
+    category  = "categories"
+[[Languages.en.menu.main]]
+    name = "About"
+    url = "/en/about/"
+[[Languages.en.menu.main]]
+    name = "Versión en español"
+    url = "/es/"
+    weight = 10

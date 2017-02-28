@@ -1,0 +1,16 @@
+# humanstxt.org/
+
+/* TEAM */
+Name: Daniel Fuentes Barría
+Role: webmaster
+Site: https://www.danielfuentes.org/
+Twitter: @dbfuentes
+Location: Santiago, Chile
+
+/* THANKS */
+
+/* SITE */
+Languages:  Español, English
+Doctype: HTML5
+Standards: HTML5, CSS3
+Software: git-scm.com, atom.io, gohugo.io
