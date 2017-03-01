@@ -22,6 +22,8 @@ theme = "beg-mod"
 pygmentsCodeFencesGuessSyntax = false
 pygmentsstyle = "monokai"
 
+disqusShortname = "pythonmania-net"
+
 [permalinks]
     blog = "/:year/:month/:day/:slug"
 
@@ -29,9 +31,6 @@ pygmentsstyle = "monokai"
 [Languages.es]
     title = "Python Mania"
     weight = 1
-[Languages.es.params]
-    locale = "es"
-    disqusShortname = "pythonmania-net"
 [Languages.es.taxonomies]
     tag = "tags"
     category  = "categories"
@@ -48,9 +47,6 @@ pygmentsstyle = "monokai"
 [Languages.en]
     title = "Python Mania"
     weight = 2
-[Languages.en.params]
-    locale = "en"
-    disqusShortname = "pythonmania-net"
 [Languages.en.taxonomies]
     # singular key: “plural value”
     tag = "tags"
