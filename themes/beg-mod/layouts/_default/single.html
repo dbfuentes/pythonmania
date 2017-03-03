@@ -53,11 +53,11 @@
             <a href="https://plus.google.com/share?url={{ .Permalink }}" onclick="window.open(this.href, 'PCwindow', 'width=550, height=350, menubar=no, toolbar=no, scrollbars=yes'); return false;"><i class="fa fa-google-plus"></i></a>
             <a href="http://getpocket.com/edit?url={{ .Permalink }}&title={{ .Title }}" onclick="window.open(this.href, 'PCwindow', 'width=550, height=350, menubar=no, toolbar=no, scrollbars=yes'); return false;"><i class="fa fa-get-pocket"></i></a>
           </div>
-
+{{ if .Site.DisqusShortname }}
           <div class="section">
-            {{ template "_internal/disqus.html" . }}
+            {{ partial "disqus.html" . }}
           </div>
-
+{{ end }}
         </aside>
 
       </article>

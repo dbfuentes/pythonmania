@@ -23,9 +23,10 @@ pygmentsCodeFencesGuessSyntax = false
 pygmentsstyle = "monokai"
 
 disqusShortname = "pythonmania-net"
+googleAnalytics = "UA-92963934-1"
 
 [permalinks]
-    blog = "/:year/:month/:day/:slug"
+    blog = "/:year/:month/:day/:slug/"
 
 [Languages]
 [Languages.es]
