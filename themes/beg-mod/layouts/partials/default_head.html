@@ -2,7 +2,6 @@
 <html{{ with .Site.Language }} lang="{{ . }}"{{ end }}>
   <head>
     <meta charset="utf-8">
-    {{ .Hugo.Generator }}
     <link rel="apple-touch-icon" href="https://www.pythonmania.net/apple-touch-icon.png">
     <link rel="icon" href="https://www.pythonmania.net/favicon.svg" sizes="any" type="image/svg+xml">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
@@ -11,6 +10,10 @@
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/{{ with .Site.Params.SyntaxHighlightTheme }}{{ . }}{{ else  }}solarized_dark.min.css{{ end }}">
     <link rel="stylesheet" href="{{ .Site.BaseURL }}css/styles.css">
+{{ if .IsTranslated }}
+    <link rel="alternate" {{ with .Site.Language }}hreflang="{{ . }}"{{ end }} href="{{ .Permalink }}">
+    {{ range .Translations }}<link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}">{{ end}}
+{{ end}}
     {{ if eq .URL "/" }}
     <title>{{ .Title }}</title>
     <meta property='og:title' content="{{ .Title }}">

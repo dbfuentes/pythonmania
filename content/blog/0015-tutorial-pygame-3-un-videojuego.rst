@@ -1553,7 +1553,7 @@ Nuestro juego tiene los siguientes problemas:
 
 Para lo primero es bastante fácil, simplemente juntamos los sprites de
 la forma todos = pygame.sprite.RenderPlain(bola, jugador1, jugador2) y
-luego los mostramos todos de una vez haciendo **todos.draw(screen)**.
+luego los mostramos todos de una vez haciendo todos.draw(screen).
 
   Nota:
   RenderPlain y RenderClear son alias para `Group
@@ -1577,8 +1577,8 @@ invencible), quedando de esta manera.
 No es muy diferente de la versión anterior, pero en este caso se define
 una velocidad (que en el eje y es de 2.5, lo cual es menor a lo 3 de la
 pelota) y luego se comprueba que la pelota se mueva a la derecha (hacia
-la paleta) con **pelota.speed[0] >= 0** y que la pelota haya pasado la
-mitad de la pantalla **pelota.rect.centerx >= SCREEN\_WIDTH / 2 **, si
+la paleta) con pelota.speed[0] >= 0 y que la pelota haya pasado la
+mitad de la pantalla pelota.rect.centerx >= SCREEN\_WIDTH / 2, si
 ambas condiciones se cumplen se comienza a mover la paleta (en caso
 contrario se queda quieta).
 

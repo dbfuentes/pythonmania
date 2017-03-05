@@ -1,0 +1,21 @@
+# Redirect old wordpress.com urls
+/:year/:month:/:date/:slug  /es/:year/:month:/:date/:slug  301
+/page/*  /es/page/*
+/category/general/  /es/categories/general/  301
+/category/herramientas/  /es/categories/herramientas/  301
+/category/pygame/  /es/tags/pygame/  301
+/category/pygtk/  /es/tags/pygtk/  301
+/category/python-2/  /es/tags/python2/  301
+/category/python-3/  /es/tags/python3/  301
+/category/tutoriales/  /es/categories/tutoriales/  301
+/tag/dbus/  /es/tags/dbus/  301
+/tag/debian/ /es/tags/debian/  301
+/tag/gettext/  /es/tags/gettext/  301
+/tag/glade/ /es/tags/glade/  301
+/tag/juegos/  /es/tags/juegos/  301
+/tag/pygame/  /es/tags/pygame/  301
+/tag/pygtk/  /es/tags/pygtk/  301
+/tag/web/  /es/tags/web/  301
+# Internal equivalences between languages
+/es/examples  /es/ejemplos
+/en/ejemplos  /en/examples

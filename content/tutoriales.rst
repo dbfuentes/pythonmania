@@ -2,6 +2,7 @@
 title = "Tutoriales"
 slug = "tutoriales"
 date = "2009-02-15T15:47:00-04:00"
+lastmod = "2017-03-04T17:04:10-03:00"
 author = "Daniel Fuentes"
 draft = false
 lang = "es"
@@ -11,7 +12,7 @@ Aquí se encuentran una lista de los tutoriales que he escrito,
 clasificados por temas y con una pequeña descripcion:
 
 PyGtk
------
+=====
 
 - `Introducción a pyGtk y Glade:
   <https://www.pythonmania.net/es/2009/02/05/introduccion-a-pygtk-y-glade/>`_
@@ -43,7 +44,7 @@ PyGtk
   (con pywebkitgtk).
 
 Python
-------
+======
 
 - `Traducir aplicaciones escritas en python:
   <https://www.pythonmania.net/es/2008/09/10/traducir-aplicaciones-en-python/>`_
@@ -53,27 +54,33 @@ Python
   pyGtk/Glade.
 
 - `Empaquetar un script python para debian:
-  <http://pythonmania.wordpress.com/2009/04/25/empaquetar-un-script-python-para-debian/>`_
+  <http://www.pythonmania.net/es/2009/04/25/empaquetar-un-script-python-para-debian/>`_
   explica como crear un paquete debian usando el ya repetido ejemplo
   del conversor de temperatura (pytemp).
 
 Pygame (juegos :D)
-------------------
+==================
 
 - `Tutorial pygame Parte 1: introducción a la programación de videojuegos:
-  <http://pythonmania.wordpress.com/2010/03/23/tutorial-pygame-introduccion/>`_
+  <http://www.pythonmania.net/es/2010/03/23/tutorial-pygame-introduccion/>`_
   Un tutorial de varias partes, en esta primera parte se da una
   introducción a pygame.
 
 - `Tutorial pygame Parte 2: Creando una ventana, cargando imágenes y
   moviéndolas al interior de la ventana:
-  <http://pythonmania.wordpress.com/2010/03/25/tutorial-pygame-2-ventana-e-imagenes/>`_
+  <http://www.pythonmania.net/es/2010/03/25/tutorial-pygame-2-ventana-e-imagenes/>`_
   Se explica como crear una ventana, que es el bucle principal de un
   videojuego (o como saber cuando hay que terminar el juego), como usar
   una imagen como fondo y como mostrar una imagen y moverla en la
   pantalla.
 
 - `Tutorial pygame Parte 3: Creando un videojuego (el clásico pong):
-  <http://pythonmania.wordpress.com/2010/04/07/tutorial-pygame-3-un-videojuego/>`_
+  <http://www.pythonmania.net/es/2010/04/07/tutorial-pygame-3-un-videojuego/>`_
   Se explica como crear un videojuego básico: crear sprites, control
   con el mouse y teclado, programar un enemigo y reproducir algunos sonidos.
+
+- `Tutorial pygame Parte 4: manejando texto
+  <https://www.pythonmania.net/es/2010/07/14/tutorial-pygame-4-figuras-y-texto/>`_
+  El nombre lo dice todo, una explicación de como mostrar texto y figuras en
+  la pantalla, Rellenar el fondo con un color especifico, dibujar lineas y
+  circulos en la pantalla y Sincronizar el movimiento usando el tiempo.
