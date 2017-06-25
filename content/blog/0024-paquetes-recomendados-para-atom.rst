@@ -2,7 +2,7 @@
 title = "Paquetes recomendados para GitHub Atom"
 slug = "paquetes-recomendados-para-atom"
 date = "2017-02-27T22:07:08-03:00"
-categories = ["general"]
+categories = ["general", "herramientas"]
 author = "Daniel Fuentes"
 draft = false
 lang = "es"
