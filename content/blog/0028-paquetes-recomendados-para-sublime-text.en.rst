@@ -219,8 +219,8 @@ Forget about manually searching and installing stuff!
 Package Control Usage
 *********************
 
-1. Open the Command Palette: Press ** Ctrl+Shift+P ** (Windows or GNU/Linux) or
-   **Cmd (** |cdm-mac-key| **)+Shift+P** (Mac OS X).
+1. Open the Command Palette: Press **Ctrl+Shift+P** (Windows or GNU/Linux) or
+   **Cmd(** |cdm-mac-key| **)+Shift+P** (Mac OS X).
 2. Type "Package Control" and select "Package Control: Install Package".
 3. A list of available packages will display in the Palette. Double-click on
    the Package name to start installing this package.

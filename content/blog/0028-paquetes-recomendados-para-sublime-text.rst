@@ -9,7 +9,7 @@ lang = "es"
 +++
 
 Hace algún tiempo escribí una lista de `paquetes recomendados para atom,
-<https://www.pythonmania.net/en/2017/02/27/paquetes-recomendados-para-atom/>`_
+<https://www.pythonmania.net/es/2017/02/27/paquetes-recomendados-para-atom/>`_
 ahora voy a hacer lo mismo para `Sublime Text 3 (ST3)
 <http://www.sublimetext.com/>`_.
 
@@ -242,7 +242,7 @@ Uso del administrador de Paquetes
 *********************************
 
 1. Abre la paleta de Comandos: Presiona **Ctrl+Shift+P** (en Windows o
-   GNU/Linux) o **Cmd (** ( |tecla-cdm-mac|**)+Shift+P** (en Mac OS X).
+   GNU/Linux) o **Cmd(** |tecla-cdm-mac| **)+Shift+P** (en Mac OS X).
 2. Escribe "Package Control" y selecciona "Package Control: Install Package".
 3. Se va a mostrar una lista de los paquetes disponibles. Hace Doble-click en
    el nombre del paquete que quieres instala para iniciar su instalación.
