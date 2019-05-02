@@ -16,8 +16,7 @@ una terminal) pero ahora estoy usando Atom debido a que en la forma que esta
 construido (sobre `Electron <http://electron.atom.io/>`_) permite tener una
 experiencia de uso bastante única.
 
-General information
-===================
+**Información General**
 
 - Url: `https://atom.io/ <https://atom.io/>`_
 - Desarollador: GitHub

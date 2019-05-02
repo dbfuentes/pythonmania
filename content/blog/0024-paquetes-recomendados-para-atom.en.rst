@@ -17,8 +17,7 @@ not being able to run it in a terminal) but I'm using Atom though because the
 way the editor is built (built on `Electron <http://electron.atom.io/>`_)
 allows for some very cool and unique experiences.
 
-General information
-===================
+**General information**
 
 - Url: `https://atom.io/ <https://atom.io/>`_
 - Developer: GitHub

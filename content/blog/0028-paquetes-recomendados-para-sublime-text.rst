@@ -21,8 +21,7 @@ que atom al abrir archivos, cerrarlos, hacer búsqueda en ellos, etc., es muy
 fluido y con mejor rendimiento que atom, debido a que esta escrito en C ++ y
 Python para los plugins).
 
-Información General
-===================
+**Información General**
 
 1. URL: `www.sublimetext.com <http://www.sublimetext.com/>`_
 2. Desarrolladores: Jon Skinner (ex ingeniero de Google) y Will Bond
@@ -59,7 +58,7 @@ importantes son:
    y carpetas que tenía abiertos cuando cerró el editor la última vez.
 #. **Snippets:** te da la posibilidad de insertar trozos de código con una
    palabra clave. Hay una serie de snippes predeterminados, como por ejemplo,
-   al crear un nuevo archivo en blanco, si uno escribe `` lorem``, y presionas
+   al crear un nuevo archivo en blanco, si uno escribe ``lorem``, y presionas
    ``Tab``. Deberías obtener un párrafo del texto de lorem ipsum.
 
 Nota: También puedes crear tus propios snippets en: ``Tools`` > ``New Snippet``.
@@ -226,7 +225,7 @@ Instalación del administrador de Paquetes
 
 To install the Package Control you have two alternatives:
 
-1. Si tu tienes instalada una versión reciente[3]_ de Sublime text 3, ve
+1. Si tu tienes instalada una versión reciente [3]_ de Sublime text 3, ve
    a ``Tools`` > ``Install Package Control``
 2. Si no tienes la opción anterior (o está usando una versión antigua de
    sublime text), simplemente tienes que abrir la consola de Sublime Text (menú
@@ -243,7 +242,7 @@ Uso del administrador de Paquetes
 *********************************
 
 1. Abre la paleta de Comandos: Presiona **Ctrl+Shift+P** (en Windows o
-   GNU/Linux) o **Cmd (|tecla-cdm-mac|)+Shift+P** (en Mac OS X).
+   GNU/Linux) o **Cmd (** ( |tecla-cdm-mac|**)+Shift+P** (en Mac OS X).
 2. Escribe "Package Control" y selecciona "Package Control: Install Package".
 3. Se va a mostrar una lista de los paquetes disponibles. Hace Doble-click en
    el nombre del paquete que quieres instala para iniciar su instalación.

@@ -18,8 +18,7 @@ community-built) and known for ease of use, strong community support [1]_ and
 it's pretty fast (much better than atom in opening, closing, searching, etc. is
 very smooth and fast since it is written in C ++ and Python for plugins).
 
-General information
-===================
+**General information**
 
 1. URL: `www.sublimetext.com <http://www.sublimetext.com/>`_
 2. Developer(s): Jon Skinner (former Google Engineer) and Will Bond
@@ -221,7 +220,7 @@ Package Control Usage
 *********************
 
 1. Open the Command Palette: Press ** Ctrl+Shift+P ** (Windows or GNU/Linux) or
-   **Cmd (|cdm-mac-key|)+Shift+P** (Mac OS X).
+   **Cmd (** |cdm-mac-key| **)+Shift+P** (Mac OS X).
 2. Type "Package Control" and select "Package Control: Install Package".
 3. A list of available packages will display in the Palette. Double-click on
    the Package name to start installing this package.
