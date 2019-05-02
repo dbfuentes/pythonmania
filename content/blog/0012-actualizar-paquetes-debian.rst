@@ -15,14 +15,14 @@ En un post anterior explicaba como crear un paquete .deb para un script de
 
 Tenemos dos casos:
 
-#. Hay que realizar algún cambio pequeño, por ejemplo corregir algún bug que tenga el paquete
-   (nueva revisión del paquete) o aplicar algún parche. Este cambio lo
-   realizas tú, no el desarrollador del programa (o sea no es una nueva
-   versión del programa, sino que son cambios específicos del paquete)
+#. Hay que realizar algún cambio pequeño, por ejemplo corregir algún bug que
+   tenga el paquete (nueva revisión del paquete) o aplicar algún parche. Este
+   cambio lo realizas tú, no el desarrollador del programa (o sea no es una
+   nueva versión del programa, sino que son cambios específicos del paquete).
 
 #. El desarrollador ha lanzado una nueva versión del programa, por lo que
    tenemos nuevas fuentes (y necesitamos crear un paquete nuevo para esta
-   versión)
+   versión).
 
 <!--more-->
 

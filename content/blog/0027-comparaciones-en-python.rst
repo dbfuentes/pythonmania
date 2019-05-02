@@ -40,7 +40,7 @@ En este caso ``a`` no es el mismo objeto que ``b`` pero tienen el mismo valor.
 
 **Nota:** Debido a la forma en que funciona la implementación de referencia de
 CPython en enteros pequeños se pueden obtener resultados inconsistentes e
-inesperados si se usa ``ìs``. Esto se debe a que la implementación de
+inesperados si se usa ``is``. Esto se debe a que la implementación de
 referencia de CPython cachea los enteros entre **-5** a **256** (ambos
 incluidos) como una sola instancia para mejorar el rendimiento (provocando
 resultados erroneos).

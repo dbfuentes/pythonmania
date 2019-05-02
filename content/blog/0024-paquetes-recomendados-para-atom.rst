@@ -2,6 +2,7 @@
 title = "Paquetes recomendados para GitHub Atom"
 slug = "paquetes-recomendados-para-atom"
 date = "2017-02-27T22:07:08-03:00"
+lastmod = "2019-05-01T17:09:00-04:00"
 categories = ["general", "herramientas"]
 author = "Daniel Fuentes"
 draft = false
@@ -14,6 +15,14 @@ la rapidez de inicio, la madurez de algunos componentes y poder iniciarlo en
 una terminal) pero ahora estoy usando Atom debido a que en la forma que esta
 construido (sobre `Electron <http://electron.atom.io/>`_) permite tener una
 experiencia de uso bastante única.
+
+General information
+===================
+
+- Url: `https://atom.io/ <https://atom.io/>`_
+- Desarollador: GitHub
+- Plataformas: mac OSX (10.9 o superior), Windows (7  o superior) y GNU/Linux
+- Licencia: MIT Licence (software libre)
 
 Por defecto Atom trae incluido algunas extensiones/paquetes por defecto. Pero
 si van a utilizarlo para desarrollar, probablemente van a necesitar otros
@@ -29,7 +38,7 @@ Configuración de Atom
 =====================
 
 Primero ha que abrir la pestaña de las preferencias (Ve a menú
-``Edit > Preferences > Settings``).
+``Edit`` > ``Preferences`` > ``Settings``).
 
 Usar espacios en ves de tabuladores
 -----------------------------------
@@ -43,8 +52,8 @@ Fijar la indentación en 4 espacios
 
 Para fijar la cantidad de espacios por tabulación a 4 espacios (el indentado
 tipico de python) y mostrar los caracteres invisibles (como espacios, tabs,
-saltos de linea, etc.). Ve a: menú ``Edit > Preferences > Settings`` y allí
-se puede fijar la cantidad de espacios por tabulación (Tab Length) a 4 y se
+saltos de linea, etc.). Ve a: menú ``Edit`` > ``Preferences`` > ``Settings`` y
+allí se puede fijar la cantidad de espacios por tabulación (Tab Length) a 4 y se
 pude marcar la opción de ver los caracteres invisibles ("Show Invisibles").
 
 Otros
@@ -52,7 +61,7 @@ Otros
 
 El siguiente paso es esconder los archivos **\*.pyc** y cualquier otro
 archivo incluido en  **.gitignore** (en caso de que estemos trabajando en un
-directorio controlado por git), para ello ve a: ``settings > packages``,
+directorio controlado por git), para ello ve a: ``settings`` > ``packages``,
 busca ``tree-view``, ve a “package settings” y marca la opción
 'Hide VCS Ignored Files'.
 
@@ -88,8 +97,8 @@ configuraciones de grunt y más.
 
 - `Seti UI <https://atom.io/themes/seti-ui>`_
 
-General
-=======
+Paquetes Generales
+==================
 
 Autocomplete-plus
 -----------------
@@ -174,7 +183,7 @@ CoffeeScript, typescript, etc.
 
 Después de instalado, para ejecutarlo, simplemente haz un click con el boton
 derecho y escoge ``Beautify editor contents``, o alternativamente ve
-a ``Packages > Atom Beautify > Beautify``.
+a ``Packages`` > ``Atom Beautify`` > ``Beautify``.
 
 - `Atom Beautify <https://atom.io/packages/atom-beautify>`_
 
@@ -213,8 +222,8 @@ se transforma en esto:
 
 - `Atom Alignment <https://atom.io/packages/atom-alignment>`_
 
-Desarrollo Web
-==============
+paquetes para Desarrollo Web
+============================
 
 Emmet
 -----
@@ -307,8 +316,8 @@ linter flake8 y pydocstyle
 
 A continuación vamos a instalar un linter de Python, para que nos ayude a
 detectar errores en nuestro código escrito en python. Hay varios, pero yo
-recomiendo uno llamado linter-flake8 que una por debajo el conocido
-flake8 (que tiene que estar instalado en el equipo).
+recomiendo uno llamado linter-flake8 que usa por debajo el conocido
+flake8 (que tiene que estar ya instalado en el equipo).
 
 - `linter-flake8 <https://atom.io/packages/linter-flake8>`_
 
@@ -320,8 +329,8 @@ flake8 .
 
 - `linter-pydocstyle <https://atom.io/packages/linter-pydocstyle>`_
 
-Bonos
-=====
+Bonos Extras
+============
 
 - `Expose <https://atom.io/packages/expose>`_ Es una herramienta de manejo de
   archivos, modelada en base al expose de Mac OSX's.  Co el puedes mostrar al

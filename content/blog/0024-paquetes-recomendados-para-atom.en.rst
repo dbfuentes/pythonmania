@@ -2,7 +2,9 @@
 title = "Recommended GitHub Atom Packages"
 slug = "recommended-atom-packages"
 date = "2017-02-27T22:07:28-03:00"
+lastmod = "2019-05-01T17:09:00-04:00"
 categories = ["general"]
+tags = ["Text Editor"]
 author = "Daniel Fuentes"
 draft = false
 lang = "en"
@@ -14,6 +16,14 @@ experiences with Vim: startup speed, maturity of some core editing components,
 not being able to run it in a terminal) but I'm using Atom though because the
 way the editor is built (built on `Electron <http://electron.atom.io/>`_)
 allows for some very cool and unique experiences.
+
+General information
+===================
+
+- Url: `https://atom.io/ <https://atom.io/>`_
+- Developer: GitHub
+- Platforms: mac OSX (10.9 or later), Windows (7 or later) and GNU/Linux
+- License: MIT Licence (Free software)
 
 By default Atom comes with a few built-in extensions/packages available.
 However, for the purposes of development you will definitely need other
@@ -28,7 +38,7 @@ Atom Config
 ===========
 
 First, open the Atom Preferences window (Go to
-``Edit menu > Preferences > Settings``).
+``Edit menu`` > ``Preferences`` > ``Settings``).
 
 Use spaces instead of tabs.
 ---------------------------
@@ -40,14 +50,14 @@ Set the tab length to 4 spaces
 ------------------------------
 
 Set tabs length to 4 spaces and turn on showing Invisibles (spaces,
-tabs, etc.). Go to ``Edit menu > Preferences > Settings`` and here we can set
-Tab Length to 4 and check "Show Invisibles".
+tabs, etc.). Go to ``Edit menu`` > ``Preferences`` > ``Settings`` and here we
+can set Tab Length to 4 and check "Show Invisibles".
 
 Others
 ------
 
 Next step, hide **\*.pyc** files and other files included in **.gitignore**,
-go to ``settings > packages``, search for ``tree-view``, go to package
+go to ``settings`` > ``packages``, search for ``tree-view``, go to package
 settings, check 'Hide VCS Ignored Files'.
 
 At the beginning we set tab length to 4 spaces, for me, HTML projects need 2
@@ -63,10 +73,10 @@ to ``Edit menu > config``) and add in the end:
         tabLength: 2
 
 Now is time to install some additional plugins and themes
-(``Edit > Preferences > Install``).
+(``Edit`` > ``Preferences`` > ``Install``).
 
     Note: You can browse the packages `online <https://atom.io/packages/>`_
-    or from Atom’s Preferences (``Edit > Preferences``)
+    or from Atom’s Preferences (``Edit`` > ``Preferences``)
 
 UI and Themes
 =============
@@ -77,8 +87,8 @@ including CSS, LESS, JSON, grunt configuration, gulp configuration and more.
 
 - `Seti UI <https://atom.io/themes/seti-ui>`_
 
-General
-=======
+General Packages
+================
 
 Autocomplete-plus
 -----------------
@@ -155,7 +165,8 @@ great support for programming languages, such as HTML, CSS, JavaScript, PHP,
 Python, Ruby, Java, C, C ++, C #, Objective-C, CoffeeScript, typescript, etc.
 
 After installing this package, to run it, just right-click and choose
-``Beautify editor contents``, or via ``Packages > Atom Beautify > Beautify``.
+``Beautify editor contents``, or via ``Packages`` > ``Atom Beautify`` >
+``Beautify``.
 
 - `Atom Beautify <https://atom.io/packages/atom-beautify>`_
 
@@ -191,8 +202,8 @@ becomes this:
 
 - `Atom Alignment <https://atom.io/packages/atom-alignment>`_
 
-Web development
-===============
+Web development Packages
+========================
 
 Emmet
 -----
